@@ -39,16 +39,25 @@ Danny has shared with you 3 key datasets for this case study:
                                                                 
   Each of the following case study questions can be answered using a single SQL statement:
 
-1.What is the total amount each customer spent at the restaurant?
-2.How many days has each customer visited the restaurant?
-3.What was the first item from the menu purchased by each customer?
-4.What is the most purchased item on the menu and how many times was it purchased by all customers?
-5.Which item was the most popular for each customer?
-6.Which item was purchased first by the customer after they became a member?
-7.Which item was purchased just before the customer became a member?
-8.What is the total items and amount spent for each member before they became a member?
-9.If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
-10.In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?          
+#.What is the total amount each customer spent at the restaurant?
+
+#.How many days has each customer visited the restaurant?
+
+#.What was the first item from the menu purchased by each customer?
+
+#.What is the most purchased item on the menu and how many times was it purchased by all customers?
+
+#.Which item was the most popular for each customer?
+
+#.Which item was purchased first by the customer after they became a member?
+
+#.Which item was purchased just before the customer became a member?
+
+#.What is the total items and amount spent for each member before they became a member?
+
+#.If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+
+#.In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?          
 
                                                                Official Solutions  
                                                                
@@ -60,5 +69,50 @@ Danny has shared with you 3 key datasets for this case study:
 4.Table Joins         
 
 
- 
-     
+                                                               INSIGHT 
+                                                               
+     #.What is the total amount each customer spent at the restaurant?
+
+
+![TOTAL SALES FOR EACH CUSTOMER](https://user-images.githubusercontent.com/68438893/193555023-39aa0a10-c033-405c-8d3e-8d2bbd822069.png)
+
+
+
+#.How many days has each customer visited the restaurant?
+
+![VISITED](https://user-images.githubusercontent.com/68438893/193555863-7ca79877-7d82-4b15-8d04-e49fd7d57a7b.png)
+
+
+#.What was the first item from the menu purchased by each customer?
+
+![FIRST ITEM](https://user-images.githubusercontent.com/68438893/193556757-d10e4f27-ba86-46d6-9fd6-9593b36bccc5.png)
+
+
+#.What is the most purchased item on the menu and how many times was it purchased by all customers?
+
+![MOST PURCHASED](https://user-images.githubusercontent.com/68438893/193557430-cec2eabc-933a-4154-8b43-bdbd5b5efcc5.png)
+
+
+#.Which item was the most popular for each customer?
+
+![MOST POPULAR](https://user-images.githubusercontent.com/68438893/193558136-44ab43ee-f4c2-4774-834d-a24325526c87.png)
+
+
+#.Which item was purchased first by the customer after they became a member?
+
+![ORDER ITEM AFTER JOINING](https://user-images.githubusercontent.com/68438893/193558793-fb564f13-7f4c-4c52-892b-9113ea6f7b93.png)
+
+
+#.Which item was purchased just before the customer became a member?
+![BEFORE JOINING](https://user-images.githubusercontent.com/68438893/193559405-f42e5f3a-ee2a-4a43-9a75-c7c024c223d2.png)
+
+
+#.What is the total items and amount spent for each member before they became a member?
+
+![TOTAL ITEM AND AMOUNT SPENT](https://user-images.githubusercontent.com/68438893/193559993-3bcbc81e-bdbf-4cfd-abae-990e965832a7.png)
+
+
+#.If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+
+![TOTAL POINT](https://user-images.githubusercontent.com/68438893/193560469-6f5d154e-3e72-4f69-85fd-92724925b1af.png)
+
